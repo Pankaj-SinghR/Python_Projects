@@ -35,7 +35,7 @@ python3 code.py
 
 ### Note
 #### Sometime you may need some external libraries to execute the file in that case use pip install command
-- Here i have shown how to install bs4 , i your case you may need other library, replace the bs4 with your needed library name
+- Here i have shown how to install bs4 , in your case you may need other library, replace the bs4 with your needed library name
 ```
 pip install bs4
 ```
